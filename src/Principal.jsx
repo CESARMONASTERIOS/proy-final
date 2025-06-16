@@ -23,8 +23,8 @@ const Principal = () => {
 
 const actores = [
   {
-    titulo: 'Will Smith',
-    imagen: 'https://upload.wikimedia.org/wikipedia/commons/thumb/a/ae/Will_Smith_by_Gage_Skidmore_2.jpg/800px-Will_Smith_by_Gage_Skidmore_2.jpg'
+    titulo: 'Leonardo DiCaprio',
+    imagen: 'https://cdn.britannica.com/65/227665-050-D74A477E/American-actor-Leonardo-DiCaprio-2016.jpg'
   },
   {
     titulo: 'Jim Carrey',
