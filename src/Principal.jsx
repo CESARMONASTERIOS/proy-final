@@ -22,9 +22,9 @@ const Principal = () => {
   const [peliculaActiva, setPeliculaActiva] = useState(null);
 
 const actores = [
-  { titulo: 'Will Smith', imagen: 'https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.allocine.fr%2Fpersonne%2Ffichepersonne_gen_cpersonne%3D19358.html&psig=AOvVaw0_Jn-naJMVLUX4ZAvXHEs3&ust=1750122193480000&source=images&cd=vfe&opi=89978449&ved=0CBQQjRxqFwoTCKiUxK7f9I0DFQAAAAAdAAAAABAd' },
-  { titulo: 'Jim Carrey', imagen: '/actor2.jpeg' },
-  { titulo: 'Johnny Depp', imagen: '/actor3.jpeg' }
+  { titulo: 'Will Smith', imagen: './https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.allocine.fr%2Fpersonne%2Ffichepersonne_gen_cpersonne%3D19358.html&psig=AOvVaw0_Jn-naJMVLUX4ZAvXHEs3&ust=1750122193480000&source=images&cd=vfe&opi=89978449&ved=0CBQQjRxqFwoTCKiUxK7f9I0DFQAAAAAdAAAAABAd' },
+  { titulo: 'Jim Carrey', imagen: './https://d3d0lqu00lnqvz.cloudfront.net/media/media/111de525-816e-4162-a0ea-fa4b1b12f7ba.jpg' },
+  { titulo: 'Johnny Depp', imagen: '/https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQA938rwNHaJhX9HiTsFPlxbjvqrs1NlOYFBQ&s' }
 ];
 
 
