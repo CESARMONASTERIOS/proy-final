@@ -22,7 +22,7 @@ const Principal = () => {
   const [peliculaActiva, setPeliculaActiva] = useState(null);
 
 const actores = [
-  { titulo: 'Will Smith', imagen: '/descarga.jpeg' },
+  { titulo: 'Will Smith', imagen: 'https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.allocine.fr%2Fpersonne%2Ffichepersonne_gen_cpersonne%3D19358.html&psig=AOvVaw0_Jn-naJMVLUX4ZAvXHEs3&ust=1750122193480000&source=images&cd=vfe&opi=89978449&ved=0CBQQjRxqFwoTCKiUxK7f9I0DFQAAAAAdAAAAABAd' },
   { titulo: 'Jim Carrey', imagen: '/actor2.jpeg' },
   { titulo: 'Johnny Depp', imagen: '/actor3.jpeg' }
 ];
@@ -141,7 +141,7 @@ const actores = [
 
           <tr className="fila-footer">
             <td className="celda-footer-izq"><strong>CESAR DIEGO TICONA MONASTERIOS</strong></td>
-            <td className="celda-footer-der"><strong>INF122</strong></td>
+            <td className="celda-footer-der"><strong>INF-122</strong></td>
           </tr>
         </tbody>
       </table>
