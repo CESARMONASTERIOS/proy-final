@@ -24,7 +24,7 @@ const Principal = () => {
 const actores = [
   {
     titulo: 'Will Smith',
-    imagen: 'https://www.allocine.fr/personne/fichepersonne_gen_cpersonne=19358.html'
+    imagen: 'https://upload.wikimedia.org/wikipedia/commons/thumb/a/ae/Will_Smith_by_Gage_Skidmore_2.jpg/800px-Will_Smith_by_Gage_Skidmore_2.jpg'
   },
   {
     titulo: 'Jim Carrey',
@@ -35,6 +35,7 @@ const actores = [
     imagen: 'https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQA938rwNHaJhX9HiTsFPlxbjvqrs1NlOYFBQ&s'
   }
 ];
+
 
 
 
